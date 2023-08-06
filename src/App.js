@@ -1,22 +1,10 @@
 
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        stealblue gitblog
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      stealblue git blog
+      <div><a href="https://www.google.com" target="_blank"></a></div>
     </div>
   );
 }
