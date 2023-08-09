@@ -40,9 +40,9 @@ function Navbar() {
   return (
     <nav id="navbar">
       <div className="container">
-        <a className="Resume" onClick={onResumeClick}>
+        {/* <a className="Resume" onClick={onResumeClick}>
           My Resume
-        </a>
+        </a> */}
       </div>
 
       <a href="https://www.linkedin.com/in/akshay-vakil/" target="_blank" className="icons">
