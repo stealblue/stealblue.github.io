@@ -13,8 +13,8 @@ function Navbar() {
   useEffect(() => {
     const typewriter = new Typewriter(typewriterRef.current, {
       strings: [
-        "비전공 개발자입니다.",
-        "코딩 공부 중입니다.",
+        "안녕하세요.",
+        "코딩 공부 중인 비전공 개발자입니다.",
         "열심히 하겠습니다.",
       ],
       autoStart: true,
